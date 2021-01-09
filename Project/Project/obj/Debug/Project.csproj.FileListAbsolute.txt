@@ -1,0 +1,10 @@
+C:\Users\Eslam\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Eslam\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Eslam\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Eslam\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Eslam\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Eslam\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Eslam\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Eslam\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Eslam\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Eslam\Desktop\Project\Project\obj\Debug\Project.pdb
